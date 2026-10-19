@@ -1,0 +1,7 @@
+# Bibliotecas registradas no ambiente local (versões de referência).
+# Conferir imports dos scripts antes de fixar dependências de produção.
+pandas==2.3.3
+openpyxl==3.1.5
+xlrd
+pyxlsb
+chardet
