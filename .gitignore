@@ -1,0 +1,31 @@
+# Credenciais e ambiente
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Bases, templates e saídas operacionais (não publicar)
+*.xlsm
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.zip
+*.log
+saida/
+saida_*/
+saida-amazon/
+dados/
+bases/
+relatorios/
+backups/
+*.bak
+
+# Arquivos locais
+.DS_Store
+Thumbs.db
